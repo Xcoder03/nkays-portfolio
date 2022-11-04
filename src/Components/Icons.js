@@ -9,7 +9,7 @@ const Icons = () => {
     <div className="Icons">
 
 <IconContext.Provider value={{ className: "top-react-icons" }}>
-    <a href="#">
+    <a href="https://www.linkedin.com/in/ebube-chinda-323a48254/">
     <AiFillSlackSquare />
     <AiFillLinkedin />
     </a>

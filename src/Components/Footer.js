@@ -21,7 +21,7 @@ const Footer = () => {
 
      <div className="footer-icons">
      <IconContext.Provider value={{ className: "foot-icons" }}>
-                        <a href="#">
+                        <a href="https://twitter.com/Xcoder03">
                         <AiOutlineTwitter />
                         <AiFillLinkedin />
                         </a>

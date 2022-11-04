@@ -7,21 +7,21 @@ const Projects = () => {
      
         <div className="projects">
           <div className="image-holder">
-            <img src="https://i.pinimg.com/originals/ee/92/d1/ee92d19eca049650e377e9d3858c5bbe.png"/>
+            <img src="https://i.pinimg.com/originals/ee/92/d1/ee92d19eca049650e377e9d3858c5bbe.png" alt=""/>
           </div>
           <a href="http://">TripsFood</a>
         </div>
 
         <div className="projects">
           <div className="image-holder">
-            <img src="https://www.upgrad.com/blog/wp-content/uploads/2020/06/screenshot-www.behance.net-2020.06.23-12_16_45.png"/>
+            <img src="https://www.upgrad.com/blog/wp-content/uploads/2020/06/screenshot-www.behance.net-2020.06.23-12_16_45.png" alt=""/>
           </div>
           <a href="http://">Advances in space</a>
         </div>
 
         <div className="projects">
           <div className="image-holder">
-            <img src="https://www.upgrad.com/blog/wp-content/uploads/2020/06/screenshot-www.behance.net-2020.06.23-12_19_44.png"/>
+            <img src="https://www.upgrad.com/blog/wp-content/uploads/2020/06/screenshot-www.behance.net-2020.06.23-12_19_44.png" alt=""/>
           </div>
           <a href="http://">Stellar</a>
         </div>

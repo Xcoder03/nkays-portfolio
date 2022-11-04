@@ -32,7 +32,7 @@ const Navbar = () => {
             <div className="nav-links">
               
                 <IconContext.Provider value={{ className: "top-icons" }}>
-                              <a href="#">
+                              <a href="https://twitter.com/Xcoder03">
                               <AiOutlineTwitter />
                               <AiFillLinkedin />
                               </a>

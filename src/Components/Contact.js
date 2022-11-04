@@ -12,7 +12,7 @@ const Contact = () => {
                 <p>You can reach out to me through my social media links. </p>
                 <div className="social">
                         <IconContext.Provider value={{ className: "top-icons" }}>
-                        <a href="#">
+                        <a href="https://www.linkedin.com/in/ebube-chinda-323a48254/">
                         <AiOutlineTwitter />
                         <AiFillLinkedin />
                         </a>
@@ -23,7 +23,7 @@ const Contact = () => {
             <div className="contacts">
                 <div className="email">
                    <IconContext.Provider value={{ className: "icons" }}>
-                        <a href="#">
+                        <a href="https://www.linkedin.com/in/ebube-chinda-323a48254/">
                         <BsFillEnvelopeFill />
                         </a>
                      </IconContext.Provider>
@@ -31,7 +31,7 @@ const Contact = () => {
                 </div>
                 <div className="email">
                 <IconContext.Provider value={{ className: "icons" }}>
-                        <a href="#">
+                        <a href="https://www.linkedin.com/in/ebube-chinda-323a48254/">
                         <BsFillTelephoneOutboundFill  />
                         </a>
                      </IconContext.Provider>
